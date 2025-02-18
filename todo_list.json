@@ -1,0 +1,24 @@
+{
+    "tasks": [
+        {
+            "description": "take bath",
+            "complete": true
+        },
+        {
+            "description": "complete the projects",
+            "complete": true
+        },
+        {
+            "description": "learn fastapi",
+            "complete": false
+        },
+        {
+            "description": "learn langchain",
+            "complete": false
+        },
+        {
+            "description": "complete tim2 projects",
+            "complete": false
+        }
+    ]
+}
